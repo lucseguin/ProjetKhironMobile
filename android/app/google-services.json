@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922853170844",
+    "firebase_url": "https://projetkhiron.firebaseio.com",
+    "project_id": "projetkhiron",
+    "storage_bucket": "projetkhiron.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922853170844:android:661a86bd4c846876f99759",
+        "android_client_info": {
+          "package_name": "com.khiron.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922853170844-82mr163kvich4tmetmi8h7lsn7gp33ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyi3Ni_ErCHtOIbWZFC-5P3e9dW8DLX8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922853170844-82mr163kvich4tmetmi8h7lsn7gp33ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
